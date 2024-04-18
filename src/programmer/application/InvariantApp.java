@@ -2,7 +2,7 @@ package programmer.application;
 
 import programmer.generic.MyData;
 
-public class InvarianApp {
+public class InvariantApp {
     public static void main(String[] args) {
         MyData<String> stringData = new MyData<>("Dyaksa");
 
